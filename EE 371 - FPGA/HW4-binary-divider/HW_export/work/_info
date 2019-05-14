@@ -1,0 +1,148 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/sixexy/Documents/School/EE 371 - More FPGA/Lab4
+vdivider
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1557862908
+!i10b 1
+!s100 3j_Zo?S7W2gXkTKRk[YHT0
+I^I2ldl_<U4dA@e92nE`Nm3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 !s105 divider_sv_unit
+S1
+Z4 dC:/Users/sixexy/Documents/School/EE 371 - More FPGA/HW4/HW_export
+Z5 w1557862814
+Z6 8./divider.sv
+Z7 F./divider.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1557862908.000000
+Z10 !s107 ./divider.sv|
+Z11 !s90 -reportprogress|300|./divider.sv|
+!i113 1
+Z12 tCvgOpt 0
+vdivider_testbench
+R0
+R1
+!i10b 1
+!s100 zi_THV:8mlKnbi_5jA80E1
+IZmSDR^DZ[IK6I7;oSl`^?0
+R2
+R3
+S1
+R4
+R5
+R6
+R7
+L0 83
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+vdowncount
+R0
+R1
+!i10b 1
+!s100 eJ[IOQ@O5AjaBbl9BiW>B3
+I6Gmnf0WN`A9DP:65E>[dI3
+R2
+!s105 downcount_sv_unit
+S1
+R4
+w1557815341
+8./downcount.sv
+F./downcount.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 ./downcount.sv|
+!s90 -reportprogress|300|./downcount.sv|
+!i113 1
+R12
+vmuxdff
+R0
+R1
+!i10b 1
+!s100 iVNm>LkMTaPmY2=jhGDdR0
+IzYjGhDWeb>H8@@VbQ9c`33
+R2
+!s105 muxdff_sv_unit
+S1
+R4
+w1557815183
+8./muxdff.sv
+F./muxdff.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 ./muxdff.sv|
+!s90 -reportprogress|300|./muxdff.sv|
+!i113 1
+R12
+vregne
+R0
+Z13 !s110 1557862909
+!i10b 1
+!s100 4K8D=I161HhS6oED1FMOJ3
+ICa:mYc;H>0hJ3YY]EdCXn3
+R2
+!s105 regne_sv_unit
+S1
+R4
+w1557815253
+8./regne.sv
+F./regne.sv
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 ./regne.sv|
+!s90 -reportprogress|300|./regne.sv|
+!i113 1
+R12
+vshiftlne
+R0
+R13
+!i10b 1
+!s100 XZZhg3AI49@<b23a>LTQn3
+Io2BL]=@oH1]Qh4cLoEgQ_1
+R2
+!s105 shiftlne_sv_unit
+S1
+R4
+w1557862395
+8./shiftlne.sv
+F./shiftlne.sv
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1557862909.000000
+!s107 ./shiftlne.sv|
+!s90 -reportprogress|300|./shiftlne.sv|
+!i113 1
+R12
